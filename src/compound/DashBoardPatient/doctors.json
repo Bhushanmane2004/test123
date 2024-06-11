@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. John Smith",
+    "specialization": "Cardiologist",
+    "location": "New York",
+    "contact": "john.smith@example.com",
+    "patients": []
+  },
+  {
+    "id": 2,
+    "name": "Dr. Jane Doe",
+    "specialization": "Dermatologist",
+    "location": "Los Angeles",
+    "contact": "jane.doe@example.com",
+    "patients": []
+  }
+]
